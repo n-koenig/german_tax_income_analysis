@@ -7,9 +7,9 @@ def process_source_data(input_path, output_path, quarterly):
     """
     Process the source data and save the processed data to a new file.
     """
-    
+
     df = pd.read_csv(BASE_DIR + input_path, skiprows=7, skipfooter=4, delimiter=';', engine='python')
-    
+
     df.iloc[11, 0] = 'Solidaritätszuschlag'
     df.iloc[12, 0] = 'Vermögensteuer'
     df.iloc[15, 0] = 'Getränkesteuer'
@@ -29,4 +29,3 @@ def process_source_data(input_path, output_path, quarterly):
         df.to_csv(BASE_DIR + output_path)
     else:
         df.to_csv(BASE_DIR + output_path)
-
