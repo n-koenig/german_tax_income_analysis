@@ -19,7 +19,6 @@ I deliberately chose the dataset containing the original uncorrected data. The s
 - Can we see seasonal variations in the data, specifically in the consumer goods taxes?
 - What role did the air traffic tax play in the overall tax income since it's introduction in 2011?
 - How do the income tax and the three assets taxes (wealth, solidarity, inheritance) compare to each other? Has this ratio changed over the past 20 years?
-- How to the energy and electrical energy ("Stromsteuer") tax compare to each other?
 
 ### Methods
 1: For the first question, a simple line plot showing the total tax income per year should be sufficient. This allows to both visualize the overall trend, as well as distinguishable spikes or drops in the time series.
