@@ -41,4 +41,4 @@ License information is provided in the [License](./LICENSE.md)
 
 # Contact Information
 
-Please write to [nikoenig@uni-potsdam.de](nikoenig@uni-potsdam.de) for any further questions.
+Please write to [nikoenig@uni-potsdam.de](mailto:nikoenig@uni-potsdam.de) for any further questions.
