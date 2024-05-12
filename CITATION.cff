@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Analysis on the Federal Tax Income in Germany
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nils
+    family-names: König
+    email: nikoenig@uni-potsdam.de
+    affiliation: Universität Potsdam
+repository-code: >-
+  https://gitup.uni-potsdam.de/nikoenig/rse_24_individual_project
+abstract: >-
+  This project presents an exploratory data analysis of the
+  federal tax income of the Federal Republic of Germany
+  using data provided by the Federal Statistics Office of
+  Germany.
+keywords:
+  - data analysis
+  - computational narrative
+  - python
+  - germany
+  - tax income
+license: MIT
+commit: 2ed19b7441b8979a5e79d59fb4ca4ccdfc259503
+version: '1.0'
+date-released: '2024-05-12'

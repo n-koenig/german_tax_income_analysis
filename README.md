@@ -37,7 +37,7 @@ The `docs/` directory contains a more detailed description of the [project motiv
 
 # License
 
-License information is provided in the [License](./LICENSE.md)
+Usage permitted under MIT License. More information [provided here](./LICENSE.md).
 
 # Contact Information
 
